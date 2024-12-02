@@ -10,7 +10,7 @@ This project focuses on predicting the price of diamonds based on their features
 
 ## Models
 - Trained on a comprehensive diamond dataset with features critical to price determination.
-- Evaluated using metrics like Mean Absolute Error (MAE) and R-squared for performance validation.
+- Evaluated using metrics like Mean Squared Error (MSE) for performance validation.
 
 ## Future Improvements
 - Incorporating additional features like market trends or geographical data for enhanced accuracy.
